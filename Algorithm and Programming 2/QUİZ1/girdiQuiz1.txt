@@ -1,0 +1,20 @@
+Baha Uysal,1008,Management,Ceo
+Can Uysal,1511,Development,Game Designer
+Flora Candy,3549,Development,Plots Designer
+Default
+İlis Kerhan,3535,Marketing,Media Manager
+Seyer Canhan,4949,Product,Operation Planner
+Default
+Ayhan Yemli,1289,Product,Website Editor
+Kılıçaslan Zorlu,4376,Development,Tasks Designer
+Mustafa Tibuk,3113,Marketing,Copywriter
+Ali Dede,2348,Marketing,Business Manager
+Default
+Ahmet Çakar,1000,Finance,Tax Manager
+Lana Del Rey,7474,Development,Systematic Designer
+Default
+Halime Şükür,7139,Finance,Cashier Manager
+Süleyman Muhteşem,4646,Finance,Accountant
+Kemal Ata Türk,1283,Product,Data Analyst
+Ahmet Lord,0000,Development,Levels Designer
+Default

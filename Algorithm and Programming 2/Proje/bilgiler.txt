@@ -1,0 +1,5 @@
+1997, Titanic, Romantik, James Cameron, {(Leonardo DiCaprio, Erkek, ABD)(Kate Winslet, Kadın, Ingiltere)}
+2014, Interstellar, Bilim Kurgu, Christopher Nolan, {(Matthew McConaughey, Erkek, ABD)(Anne Hathaway, Kadın, ABD)}
+1999, The Matrix, Bilim Kurgu, The Wachowskis, {(Keanu Reeves, Erkek, Lübnan)(Carrie-Anne Moss, Kadın, Kanada)}
+2014, The Hobbit: The Battle of the Five Armies, Fantastik, Peter Jackson, {(Martin Freeman, Erkek, Ingiltere)(Cate Blanchett, Kadın, Avustralya)}
+1997, Fast & Furious 4, Aksiyon, Justin Lin, {(Vin Diesel, Erkek, ABD)(Michelle Rodriguez, Kadın, ABD)}
